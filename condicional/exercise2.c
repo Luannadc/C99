@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int idade, dias, meses, anos;
-    printf("Digite sua idade em dias: %d\n", idade);
+    printf("Digite sua idade em dias:", idade);
     scanf("%d", &idade);
     anos = idade / 365;
     meses = (idade % 365) / 30;
