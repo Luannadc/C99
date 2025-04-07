@@ -21,3 +21,4 @@ int main(){
     }
     return 0;   
 }
+//calculo do peso ideal de homens e mulheres.
