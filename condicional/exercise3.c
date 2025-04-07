@@ -9,4 +9,4 @@ int main(){
     printf("A duracao do evento e de %d horas, %d minutos e %d segundos.\n", horas, min, seg);
     return 0;
 }
-// o programa calcula a duracao de um evento dado em segundos e converte para horas, min e segundos.
+// o programa calcula a duracao de um evento dado em segundos e converte para horas, min e segundos.    
