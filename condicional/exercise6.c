@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 int main(){
   int nota1, nota2, nota3;
   float media;
