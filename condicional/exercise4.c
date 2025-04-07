@@ -19,3 +19,4 @@ int main(){
     printf("novo salario = %.2lf\n", nvsalario);
     printf("diferenca = %.2lf\n", diferenca);
 }
+//aumento de salario de uma empresa de acordo com o codigo do funcionario
