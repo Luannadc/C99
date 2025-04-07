@@ -24,3 +24,5 @@ int main(){
   printf("Preço total: %.2f\n", valortotal);
   return 0;
 }
+//calculo do preco total de produtos a paertir de um codigo e quantidade
+//codigo: ABCD = 5.30, XYPK = 6.00, KLMP = 3.20, QRST = 2.50   
