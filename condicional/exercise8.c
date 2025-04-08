@@ -18,3 +18,4 @@ int main(){
 
     return 0;
 }
+// senho de acesso para o usuario, se a senha estiver correta, o programa deve pedir o nome e o sexo do usuario, devera imprimir "Seja Bem Vindo(a)" e o nome do usuario, se a senha estiver incorreta, o programa deve imprimir "ERRO! SENHA INVALIDA".
