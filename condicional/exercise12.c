@@ -41,3 +41,5 @@ int main() {
     }
     return 0;
 }
+//Programa que recebe o preço e o código de um produto e imprime a procedência do produto.
+// O código do produto é um número inteiro que representa a região de procedência do produto.
